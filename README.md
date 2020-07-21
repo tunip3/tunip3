@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 3 projects
+- 🔭 I’m currently working on something
 - 🌱 I’m currently learning how to spell
 - 👯 I’m looking to collaborate on wiki editing
 - 💬 Ask me about my cat
