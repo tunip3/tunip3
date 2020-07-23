@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on something
-- 🌱 I’m currently learning how to spell
+- 🌱 I’m currently learning how spel an gramar
 - 👯 I’m looking to collaborate on wiki editing
 - 💬 Ask me about my cat
 - 📫 How to reach me: Discord (t3#4171), [Twitter]()
