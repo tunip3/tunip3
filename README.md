@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how spel an gramar
 - 👯 I’m looking to collaborate on wiki editing
 - 💬 Ask me about my cat
-- 📫 How to reach me: Discord (t3#4171), [Twitter]()
-- 😄 Pronouns: any
+- 📫 How to reach me: Discord (t3#4171), [Twitter](https://twitter.com/tunip3bot)
+- 😄 Pronouns: they/them she/her
