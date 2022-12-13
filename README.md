@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about my cat-->
 - ❔ Who are you: I'm t3, I'm a programmer and mathematician
 - 📫 How to reach me: Discord (t3#4171), [Twitter](https://twitter.com/tunip3bot) or shoot me an email tunip3@tunip3.dev
-- 😄 Pronouns: She/they
+- 😄 Pronouns: She/her
+
+### **Currently looking for work**: please feel free to reach out if your looking for a software engineer
 
 <a href='https://ko-fi.com/H2H23ED52' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
