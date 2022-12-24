@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how spel an gramar
 - 👯 I’m looking to collaborate on wiki editing
 - 💬 Ask me about my cat-->
-- ❔ Who are you: I'm t3, I'm a programmer and mathematician
+- ❔ Who are you: I'm Sakura and I'm a programmer and mathematician
 - 📫 How to reach me: Discord (t3#4171), [Twitter](https://twitter.com/tunip3bot) or shoot me an email tunip3@tunip3.dev
 - 😄 Pronouns: She/her
 
